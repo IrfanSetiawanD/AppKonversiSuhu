@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Konversi Suhu</string>
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Reamur</item>
+    </string-array>
+</resources>
